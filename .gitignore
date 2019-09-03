@@ -1,3 +1,10 @@
+# file
+# /path/to/file/from/root
+# directory/
+# /path/to/dir/from/root/
+
+
 data/
 .ipynb_checkpoints/
 data.zip
+weights/
